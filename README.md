@@ -1,6 +1,6 @@
 #  <img src="https://media.giphy.com/media/6MTe3IOoLSQ6Z7whKU/giphy.gif" width="100"> Bienvenid@ al GitHub de Ledesma Juan
 
-![Banner de Ledesma Juan](LEDESMA-JUAN.jpg)
+![Banner de Ledesma Juan](github-banner-1.png)
 <!--
 **tiggerfire/tiggerfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
